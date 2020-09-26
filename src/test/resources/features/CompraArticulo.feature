@@ -1,6 +1,6 @@
 Feature: funcionalidad de compra
   Yo como suuario deerer
-  para poder ver
+  para poder ver que se agrega
 
   Scenario Outline: Agregar un articulo al carro de compra
 
